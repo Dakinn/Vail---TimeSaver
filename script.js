@@ -107,7 +107,7 @@ $( document ).ready(function() {
 		
 		else if ( saverValue > 1 && saverValue < 2.01){
 			$('.saver-results h4').html('Why don&#39;t you use that time to go Tubing');
-			$('.saver-results p').html('With an extra hour or two, why not head to <a href="http://www.vail.com/activitiesdetail/vail+-+tubing+at+adventure+ridge.axd">Adventure Ridge</a> for some tubing. Our multi-lane tubing hilldelivers the downhill excitement you remember from your childhood, while our new, covered lift whisks you back up the hill in all the comfort you&#39;ve come to want as an adult.');
+			$('.saver-results p').html('With an extra hour or two, why not head to <a href="http://www.vail.com/activitiesdetail/vail+-+tubing+at+adventure+ridge.axd">Adventure Ridge</a> for some tubing. Our multi-lane tubing hill delivers the downhill excitement you remember from your childhood, while our new, covered lift whisks you back up the hill in all the comfort you&#39;ve come to want as an adult.');
 		}
 		
 		else if( saverValue > 2.02 && saverValue < 6){
