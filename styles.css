@@ -236,6 +236,7 @@ section .saver-img{
     position: absolute;
     width: 100%;
 	z-index:10;
+	padding-top: 25px;
 }
 
 .saver-right .saver-img {
@@ -306,7 +307,7 @@ section .saver-img{
 }
 
 .saver-results p a{
-	color:#2A99E1;
+	color:#2396E0;
 }
 
 /*----plus minus icon----*/
@@ -510,5 +511,9 @@ section .saver-img{
 	}
 	.saver-img-content{
 		bottom:5px;
+	}
+	
+	.saver-results.active {
+		max-height: 1200px;
 	}
 }
