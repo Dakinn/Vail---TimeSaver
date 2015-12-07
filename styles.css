@@ -57,6 +57,10 @@ section.intro{
 	background-color:transparent;
 }
 
+.intro strong{
+	font-weight: 700;
+}
+
 /*-----time saver counter styles-----*/
 
 .saver-counter{
@@ -261,6 +265,10 @@ section .saver-img{
 
 .activities {
     padding: 80px 0;
+}
+
+.saver-content a{
+	text-decoration:none;
 }
 
 /*-----results styles-----*/
